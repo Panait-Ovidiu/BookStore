@@ -1,4 +1,4 @@
-# BookStore
+# Book Store
 
 
 The project was carried out during college. The graphical interface of the application was created using the AWT library in Java.
