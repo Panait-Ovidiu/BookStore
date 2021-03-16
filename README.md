@@ -2,7 +2,7 @@
 
 
 The project was carried out during college. The graphical interface of the application was created using the AWT library in Java.
-The application requires the creation of an account by the customer, with which he can log in. Thus, it is possible to view the book catalog, from which the customer can add to the basket the desired books, finally seeing their cumulative price.
+The application requires the creation of an account by the customer so he can log in. Thus, it is possible to view the book catalog, from which the customer can add to the basket the desired books, finally seeing their cumulative price.
 
 ![BookStore1](https://user-images.githubusercontent.com/80470834/111352206-9ea3a400-868c-11eb-91c6-5d7bdc8a6b0c.png)
 ![BookStore2](https://user-images.githubusercontent.com/80470834/111352213-9fd4d100-868c-11eb-963f-855260168904.png)
